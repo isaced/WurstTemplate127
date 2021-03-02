@@ -1,0 +1,4 @@
+---
+projectName: WurstTemplate127
+dependencies:
+- https://github.com/wurstscript/wurstStdlib2:pre1.29
